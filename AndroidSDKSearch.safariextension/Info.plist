@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Oleg Godovykh</string>
+	<key>Builder Version</key>
+	<string>10600.7.12</string>
+	<key>CFBundleDisplayName</key>
+	<string>Android SDK Search</string>
+	<key>CFBundleIdentifier</key>
+	<string>net.olegg.androidsdksearch</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Chrome</key>
+	<dict/>
+	<key>Content</key>
+	<dict>
+		<key>Scripts</key>
+		<dict/>
+	</dict>
+	<key>Description</key>
+	<string>A Safari extension that adds view source links for the Android SDK.</string>
+	<key>DeveloperIdentifier</key>
+	<string>8B2YG857J6</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Permissions</key>
+	<dict>
+		<key>Website Access</key>
+		<dict/>
+	</dict>
+	<key>Website</key>
+	<string>http://olegg.net</string>
+</dict>
+</plist>
