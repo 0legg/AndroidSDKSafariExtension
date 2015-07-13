@@ -21,7 +21,12 @@
 	<key>Content</key>
 	<dict>
 		<key>Scripts</key>
-		<dict/>
+		<dict>
+			<key>End</key>
+			<array>
+				<string>ref-inject-code-search.js</string>
+			</array>
+		</dict>
 	</dict>
 	<key>Description</key>
 	<string>A Safari extension that adds view source links for the Android SDK.</string>
@@ -32,7 +37,17 @@
 	<key>Permissions</key>
 	<dict>
 		<key>Website Access</key>
-		<dict/>
+		<dict>
+			<key>Allowed Domains</key>
+			<array>
+				<string>developer.android.com/reference</string>
+				<string>developer.android.com/guide</string>
+			</array>
+			<key>Include Secure Pages</key>
+			<true/>
+			<key>Level</key>
+			<string>Some</string>
+		</dict>
 	</dict>
 	<key>Website</key>
 	<string>http://olegg.net</string>
