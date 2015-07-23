@@ -10,9 +10,9 @@
        <key>Developer Identifier</key>
        <string>Safari Developer: (8B2YG857J6) olegg.lieangel@gmail.com</string>
        <key>CFBundleVersion</key>
-       <string>1</string>
+       <string>2</string>
        <key>CFBundleShortVersionString</key>
-       <string>0.1</string>
+       <string>0.1.1</string>
        <key>URL</key>
        <string>https://raw.githubusercontent.com/0legg/AndroidSDKSearchExtension/master/AndroidSDKSearch.safariextz</string>
      </dict>
