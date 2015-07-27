@@ -8,4 +8,4 @@ This extension is derived from Roman Nurik's [Android SDK Search Extension](http
 # Screenshot:
 ![ScreenShot](screenshot.png)
 
-[Install link](https://raw.githubusercontent.com/0legg/AndroidSDKSearchExtension/master/AndroidSDKSearch.safariextz) (may need Safari restart)
+[Install link](https://raw.githubusercontent.com/0legg/AndroidSDKSafariExtension/master/AndroidSDKSearch.safariextz) (may need Safari restart)
